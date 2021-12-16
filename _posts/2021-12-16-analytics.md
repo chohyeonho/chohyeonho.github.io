@@ -10,4 +10,4 @@ feature_text: |
 feature_image: "https://picsum.photos/2560/600?image=733"
 ---
 
-![image](../assets/analytics.png)
+![image](https://raw.githubusercontent.com/chohyeonho/chohyeonho.github.io/main/assets/analytics.png)

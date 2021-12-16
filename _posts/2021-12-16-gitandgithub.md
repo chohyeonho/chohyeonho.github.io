@@ -1,6 +1,7 @@
 ---
 title: Git과 Github에 대해서
 categories:
+- 블로그 개발 과정
 - 배운 내용
 excerpt: |
   Git and Github

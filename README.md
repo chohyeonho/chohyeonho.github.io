@@ -4,7 +4,7 @@
 1. 깃헙 리포지토리 생성
 
 
-## 1. 깃헙 리포지토리 생성
+## 깃헙 리포지토리 생성
 
 - Github에서 chohyeonho.github.io 이름의 Repo 생성
 - `git clone`으로 로컬 리포지토리에 연동
